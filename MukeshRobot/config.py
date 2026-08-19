@@ -3,10 +3,10 @@ class Config(object):
     API_ID =None 
     API_HASH = ""
     TOKEN = ""  
-    OWNER_ID=None
+    OWNER_ID= "8857291657"
     
-    SUPPORT_CHAT = "" 
-    START_IMG = ""
+    SUPPORT_CHAT = "https://t.me/annu_support" 
+    START_IMG = "https://d.uguu.se/CHvqjpqC.jpg"
     EVENT_LOGS = ()
     MONGO_DB_URI= ""
    
